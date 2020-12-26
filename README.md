@@ -1,1 +1,1 @@
-frictionless.fission.app
+https://frictionless.fission.app
