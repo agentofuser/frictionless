@@ -2,12 +2,20 @@
 tags: [home]
 ---
 
-# Neuron Template
+Hi there! 👋
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Helder here. (You might know me as [@agentofuser](https://agentofuser.com).)
 
-Get started by reading [[[README]]].
+I'm just starting to take my first steps into both
+[@elmlang](https://elm-lang.org/) and [@FISSIONcodes](https://fission.codes/),
+and I'm very excited about writing apps using them together.
 
-Other pages on this zettelkasten (this demonstrates how to use [link queries](https://neuron.zettel.page/link-query.html)):
+Of course, being a n00b is the best time to put yourself into a beginner's
+shoes, and a beginner's instructions are often more helpful to another beginner
+than an expert's.
 
-[[[z:zettels?tag=other]]]
+So hopefully I'll manage to report my mishaps and successes in this journey
+with a small enough latency for you to get the most out of them on your own
+path to building **frictionless fission apps** with Elm 🌳 ;)
+
+Glide on ⛸⛸❄️
