@@ -2,13 +2,14 @@
 tags: [home]
 ---
 
+# Frictionless
+
 Hi there! 👋
 
 Helder here. (You might know me as [@agentofuser](https://agentofuser.com).)
 
-I'm just starting to take my first steps into both
-[@elmlang](https://elm-lang.org/) and [@FISSIONcodes](https://fission.codes/),
-and I'm very excited about writing apps using them together.
+I'm just starting to take my first steps into both [[Elm]] and [[Fission]], and
+I'm very excited about writing apps using them together.
 
 Of course, being a n00b is the best time to put yourself into a beginner's
 shoes, and a beginner's instructions are often more helpful to another beginner
