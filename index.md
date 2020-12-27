@@ -6,7 +6,8 @@ tags: [home]
 
 Hi there! 👋
 
-Helder here. (You might know me as [@agentofuser](https://agentofuser.com).)
+[[Helder]] here. (You might know me as
+[@agentofuser](https://agentofuser.com).)
 
 I'm just starting to take my first steps into both [[Elm]] and [[Fission]], and
 I'm very excited about writing apps using them together.
@@ -17,6 +18,10 @@ than an expert's.
 
 So hopefully I'll manage to report my mishaps and successes in this journey
 with a small enough latency for you to get the most out of them on your own
-path to building **frictionless fission apps** with Elm 🌳 ;)
+path to building **frictionless fission apps** with [[Elm]] 🌳 ;)
 
 Glide on ⛸⛸❄️
+
+## Updates
+
+[[z:zettels?tag=daylog]]
