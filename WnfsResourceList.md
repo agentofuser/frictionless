@@ -1,0 +1,24 @@
+---
+date: 2020-12-28T13:09
+---
+
+- [[MozillaTalkAboutMacaroons]]
+- [[FissionBackendlessAuthentication]]
+- [[TessRinearsonAnOverEngineeringDisasterWithMacaroons]]
+- https://www.youtube.com/watch?v=rQgecoUvmjU
+- https://blog.fission.codes/auth-without-backend/
+- https://talk.fission.codes/t/macaroons-resources/527
+- https://talk.fission.codes/t/user-controlled-authorization-networks-ucan-resources/1122
+- https://whitepaper.fission.codes/access-control/ucan/ucan-tokens
+- https://www.w3.org/TR/did-core/
+- https://tools.ietf.org/html/rfc7519
+- https://jwt.io/
+- https://talk.fission.codes/t/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud-2014/526
+- https://research.google/pubs/pub41892/
+- http://tech.tmh.io/concept/2016/06/07/macaroons-a-new-flavor-for-authorization.html
+- https://evancordell.com/2015/09/27/macaroons-101-contextual-confinement.html
+- https://hackingdistributed.com/2014/05/16/macaroons-are-better-than-cookies/
+- http://macaroons.io/
+- https://en.wikipedia.org/wiki/Simple_public-key_infrastructure
+- https://guide.fission.codes/developers/webnative
+- https://blog.fission.codes/web-native-file-system-presentation/
