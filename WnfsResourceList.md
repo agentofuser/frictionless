@@ -5,7 +5,7 @@ date: 2020-12-28T13:09
 - [[MozillaTalkAboutMacaroons]]
 - [[FissionBackendlessAuthentication]]
 - [[TessRinearsonAnOverEngineeringDisasterWithMacaroons]]
-- https://www.youtube.com/watch?v=rQgecoUvmjU
+- [[BenBollenUcanPresentation]]
 - https://blog.fission.codes/auth-without-backend/
 - https://talk.fission.codes/t/macaroons-resources/527
 - https://talk.fission.codes/t/user-controlled-authorization-networks-ucan-resources/1122
