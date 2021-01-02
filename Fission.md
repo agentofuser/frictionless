@@ -32,5 +32,6 @@ about it.
 
 ## Pages
 
+- [[FissionWhitepaper]]
 - [[[WNFS]]]
 - [[[UCAN]]]
