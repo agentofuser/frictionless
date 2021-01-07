@@ -11,6 +11,9 @@ Open source apps and projects that would more directly benefit from having
       Personal Kanban Board is an agile project management tool that helps you
       visualise your work, limit your work-in-progress (WIP) and to craft &
       optimise your work flow to get the maximum output.
+    - [org-web](https://github.com/DanielDe/org-web): org-mode on the web,
+      built with React, optimized for mobile, synced with Dropbox and Google
+      Drive.
   - Projects
     - [react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template):
       Setup Create React App with React Boilerplate. Highly scalable & Best DX
@@ -62,3 +65,13 @@ Open source apps and projects that would more directly benefit from having
 - Elm
   - Apps
   - Projects
+- Sync
+  - [rclone](https://github.com/rclone/rclone): "rsync for cloud storage" -
+    Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift,
+    Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
+  - [sparkleshare](https://github.com/hbons/SparkleShare): Share and
+    collaborate by syncing with any Git repository instantly. Linux, macOS, and
+    Windows.
+  - [code-sync](https://github.com/golf1052/code-sync): Sync VSCode extensions
+    using your favorite file synchronization service (OneDrive, Dropbox, Google
+    Drive, etc.)
