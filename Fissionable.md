@@ -5,8 +5,11 @@ date: 2021-01-07T09:30
 Open source apps and projects that would more directly benefit from having
 [[Fission]] support added to them:
 
-- React Web
+- Web
   - Apps
+    - [excalidraw](https://github.com/excalidraw/excalidraw): Virtual
+      whiteboard for sketching hand-drawn like diagrams. Collaborative and end
+      to end encrypted.
     - [personal-kanban](https://github.com/nishantpainter/personal-kanban):
       Personal Kanban Board is an agile project management tool that helps you
       visualise your work, limit your work-in-progress (WIP) and to craft &
@@ -14,6 +17,8 @@ Open source apps and projects that would more directly benefit from having
     - [org-web](https://github.com/DanielDe/org-web): org-mode on the web,
       built with React, optimized for mobile, synced with Dropbox and Google
       Drive.
+    - [logseq](https://github.com/logseq/logseq): A privacy-first, open-source
+      platform for knowledge sharing and management.
   - Projects
     - [react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template):
       Setup Create React App with React Boilerplate. Highly scalable & Best DX
@@ -22,16 +27,13 @@ Open source apps and projects that would more directly benefit from having
       Offline-First Apps for Web and React Native
     - [react-most-wanted](https://github.com/TarikHuber/react-most-wanted):
       Starter kit with "Most Wanted" application features
-- React Native
+- Native mobile
   - Apps
   - Projects
     - [react-native-offline](https://github.com/rgommezz/react-native-offline):
       Handy toolbelt to deal nicely with offline/online connectivity in a React
       Native app. Smooth redux integration.
-- Vue
-  - Apps
-  - Projects
-- Electron
+- Desktop/Electron
   - Apps
     - [zettlr](https://github.com/Zettlr/Zettlr): A Markdown Editor for the
       21st century.
@@ -62,16 +64,18 @@ Open source apps and projects that would more directly benefit from having
     - [manta](https://github.com/hql287/Manta): Flexible invoicing desktop app
       with beautiful & customizable templates.
   - Projects
-- Elm
-  - Apps
-  - Projects
 - Sync
-  - [rclone](https://github.com/rclone/rclone): "rsync for cloud storage" -
-    Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift,
-    Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
-  - [sparkleshare](https://github.com/hbons/SparkleShare): Share and
-    collaborate by syncing with any Git repository instantly. Linux, macOS, and
-    Windows.
-  - [code-sync](https://github.com/golf1052/code-sync): Sync VSCode extensions
-    using your favorite file synchronization service (OneDrive, Dropbox, Google
-    Drive, etc.)
+  - App
+    - [rclone](https://github.com/rclone/rclone): "rsync for cloud storage" -
+      Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift,
+      Hubic, Cloudfiles, Google Cloud Storage, Yandex Files.
+    - [sparkleshare](https://github.com/hbons/SparkleShare): Share and
+      collaborate by syncing with any Git repository instantly. Linux, macOS,
+      and Windows.
+    - [code-sync](https://github.com/golf1052/code-sync): Sync VSCode
+      extensions using your favorite file synchronization service (OneDrive,
+      Dropbox, Google Drive, etc.)
+  - Projects
+    - [automerge](https://github.com/automerge/automerge): A JSON-like data
+      structure (a CRDT) that can be modified concurrently by different users,
+      and merged again automatically.
